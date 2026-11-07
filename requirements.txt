@@ -1,3 +1,0 @@
-python-telegram-bot==21.10
-motor==3.7.1
-pymongo==4.10.1
