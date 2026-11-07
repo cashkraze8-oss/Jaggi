@@ -1,6 +1,0 @@
-telethon>=1.36
-cryptg
-yt-dlp[default]
-motor>=3.4
-requests
-instaloader
